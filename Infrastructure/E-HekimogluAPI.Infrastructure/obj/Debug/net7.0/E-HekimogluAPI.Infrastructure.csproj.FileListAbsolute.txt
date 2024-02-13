@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\bin\Debug\net7.0\E-HekimogluAPI.Infrastructure.deps.json
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\bin\Debug\net7.0\E-HekimogluAPI.Infrastructure.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\bin\Debug\net7.0\E-HekimogluAPI.Infrastructure.pdb
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\refint\E-HekimogluAPI.Infrastructure.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\E-HekimogluAPI.Infrastructure.pdb
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Infrastructure\E-HekimogluAPI.Infrastructure\obj\Debug\net7.0\ref\E-HekimogluAPI.Infrastructure.dll

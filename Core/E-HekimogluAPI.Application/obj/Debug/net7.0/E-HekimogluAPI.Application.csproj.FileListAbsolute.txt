@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\bin\Debug\net7.0\E-HekimogluAPI.Application.deps.json
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\bin\Debug\net7.0\E-HekimogluAPI.Application.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\bin\Debug\net7.0\E-HekimogluAPI.Application.pdb
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.AssemblyInfo.cs
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\refint\E-HekimogluAPI.Application.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.pdb
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\ref\E-HekimogluAPI.Application.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\bin\Debug\net7.0\E-HekimogluAPI.Domain.dll
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\bin\Debug\net7.0\E-HekimogluAPI.Domain.pdb
+C:\Users\ASUS\source\AngularVsWebAPI\AngularDotnetMini_E-Hekimoglu_API\E-HekimogluAPI\E-HekimogluAPI\Core\E-HekimogluAPI.Application\obj\Debug\net7.0\E-HekimogluAPI.Application.csproj.CopyComplete
